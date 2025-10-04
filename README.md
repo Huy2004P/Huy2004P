@@ -8,5 +8,5 @@
 - Ngôn ngữ: C#, Java, Dart
 - Framework: .NET, Flutter
 - Database: MySQL, SQL Server
-- Công cụ: Git, Visual Studio, VS Code
+- Công cụ: Git, Visual Studio, Android Studio, VS Code
 
