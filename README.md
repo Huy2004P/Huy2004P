@@ -49,13 +49,6 @@
 
 ---
 
-### 🧪 [**Cửa hàng Nông Dược**](#) *(Refactor Project)*  
-> 💼 Dự án nhóm lớn (C# WinForms → kiến trúc nhiều tầng + SQL Server)  
-- 🏗 Áp dụng Design Patterns (Singleton, Builder, Abstract Factory…)  
-- 📊 Chuẩn hóa theo ISO/IEC/IEEE 14764, tính chi phí bằng COCOMO II
-
----
-
 ## 📈 Thống kê GitHub | GitHub Stats
 
 <div align="center">
