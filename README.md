@@ -5,7 +5,6 @@
 
 ---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phathuy2004h@gmail.com)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Huy2004P)
 ![GitHub followers](https://img.shields.io/github/followers/Huy2004P?label=Follow&style=social)
