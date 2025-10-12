@@ -34,17 +34,12 @@
 
 ## 📱 Dự án nổi bật | Featured Projects
 
-### 🌸 [**OurStories Mobile**](https://github.com/Huy2004P/ourstories)  
-> 📱 Ứng dụng Flutter lưu giữ kỷ niệm (Huy & Trí) – thiết kế nhẹ nhàng, UI cảm xúc  
-- 🧭 Flutter · JSON Data · Dark/Light Theme  
-- ✨ Tự code toàn bộ từ giao diện đến data
-
----
-
-### 💫 [**OurStories Web**](https://github.com/Huy2004P/my-couple-story-website)  
-> 🌐 Website HTML/CSS/JS để chia sẻ kỷ niệm online  
-- 📖 Hiển thị ảnh & câu chuyện từ file JSON  
-- 💻 Responsive + hiệu ứng nền nhẹ nhàng
+### ☕  [**KOKAKA Coffee App**](https://github.com/Huy2004P/cafe_manager_app)  
+📱 Ứng dụng Flutter quản lý menu quán cà phê – dự án cá nhân thể hiện kỹ năng UI/UX & SQLite
+🧭 Flutter · SQLite Local Storage · Dark/Light Theme
+🧩 Quản lý món, hình ảnh, mô tả và phân loại theo nhóm đồ uống
+🎨 Thiết kế tông nâu coffee sang trọng, hoạt ảnh mượt, UI tối ưu trên điện thoại
+💡 Có Splash Screen, Intro Page, About Me, và trang Cài đặt giao diện
 
 ---
 
