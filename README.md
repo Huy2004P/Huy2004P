@@ -28,7 +28,7 @@ Mình là sinh viên ngành **Kỹ Thuật Phần Mềm** tại *Trường Đạ
 
 | Danh mục | Kỹ năng & Công nghệ |
 | :--- | :--- |
-| **Ngôn ngữ** | `C#` · `Java` · `Dart` |
+| **Ngôn ngữ** | `C#` · `Javascript` · `Dart` |
 | **Frameworks** | `Flutter` · `.NET` |
 | **Cơ sở dữ liệu** | `SQL Server` · `MySQL` · `SQLite` |
 | **Công cụ** | `Git` · `Visual Studio` · `VS Code` · `Android Studio` |
