@@ -15,7 +15,7 @@
 
 ## 👤 Về mình | About Me
 
-Mình là sinh viên ngành **Kỹ Thuật Phần Mềm** tại *Trường Đại Học An Giang - ĐHQG TP.HCM*. Mình mang trong mình niềm đam mê mạnh mẽ với việc phát triển các ứng dụng **Mobile (Flutter)** và **Desktop (.NET, WinForms)**, đặc biệt chú trọng vào **trải nghiệm người dùng (UX/UI)** và **clean code**.
+Mình là sinh viên ngành **Kỹ Thuật Phần Mềm** tại *Trường Đại Học An Giang - ĐHQG TP.HCM*. Mình mang trong mình niềm đam mê mạnh mẽ với việc phát triển các ứng dụng **Mobile (Flutter)** và các Framework về **Web (NodeJS, React)**, đặc biệt chú trọng vào **trải nghiệm người dùng (UX/UI)** và **clean code**.
 
 - 🎯 **Mục tiêu:** Trở thành Full-stack Developer với nền tảng vững chắc và các dự án mang tính thực tiễn cao.
 - 🌱 **Đang nghiên cứu:** `.NET`, `Flutter`, `SQL Server` và các kiến trúc phần mềm hiện đại.
