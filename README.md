@@ -18,7 +18,7 @@
 Mình là sinh viên ngành **Kỹ Thuật Phần Mềm** tại *Trường Đại Học An Giang - ĐHQG TP.HCM*. Mình mang trong mình niềm đam mê mạnh mẽ với việc phát triển các ứng dụng **Mobile (Flutter)** và các Framework về **Web (NodeJS, React)**, đặc biệt chú trọng vào **trải nghiệm người dùng (UX/UI)** và **clean code**.
 
 - 🎯 **Mục tiêu:** Trở thành Full-stack Developer với nền tảng vững chắc và các dự án mang tính thực tiễn cao.
-- 🌱 **Đang nghiên cứu:** `.NET`, `Flutter`, `SQL Server` và các kiến trúc phần mềm hiện đại.
+- 🌱 **Đang nghiên cứu:** `NodeJS`, `Flutter`, `React` và các kiến trúc phần mềm hiện đại.
 - ✨ **Triết lý:** Thiết kế tối giản (Minimalist), UI tinh tế, tối ưu hóa hiệu suất và xây dựng những dự án *"có cảm xúc"*.
 - 🛠 **Sở thích khác:** Khám phá công nghệ IoT và sáng tạo giao diện (UI/UX).
 
@@ -51,11 +51,6 @@ Mình là sinh viên ngành **Kỹ Thuật Phần Mềm** tại *Trường Đạ
 *Dự án tái cấu trúc hệ thống ứng dụng đặt lịch khám bệnh thành kiến trúc Standalone.*
 - **Công nghệ:** `Flutter` · `Feature-First Architecture`
 - **Điểm nhấn:** Xử lý Routing tập trung, Dependency Injection (DI) hiệu quả, gỡ rối các module phức tạp để tối ưu hiệu suất và dễ dàng bảo trì.
-
-### ☕ [**KOKAKA Coffee App**](https://github.com/Huy2004P/cafe_manager_app)
-*Ứng dụng quản lý menu quán cà phê offline gọn nhẹ.*
-- **Công nghệ:** `Flutter` · `SQLite Local Storage`
-- **Điểm nhấn:** Giao diện tone nâu coffee sang trọng, hỗ trợ chuyển đổi **Dark / Light Theme** mượt mà, quản lý món ăn trực quan bằng hình ảnh.
 
 ---
 
