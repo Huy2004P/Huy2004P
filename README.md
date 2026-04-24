@@ -58,9 +58,9 @@ Mình là sinh viên ngành **Kỹ Thuật Phần Mềm** tại *Trường Đạ
 
 <div align="center">
 
-![Huy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huy2004P&show_icons=true&theme=transparent&hide_border=true&title_color=1D1D1F&text_color=1D1D1F&icon_color=0071E3)  
+![Huy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huy2004P&show_icons=true&theme=default&hide_border=true&title_color=0366d6&text_color=24292f&icon_color=2f81f7)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huy2004P&layout=compact&theme=transparent&hide_border=true&title_color=1D1D1F&text_color=1D1D1F)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huy2004P&layout=compact&theme=default&hide_border=true&title_color=0366d6&text_color=24292f)
 
 </div>
 
