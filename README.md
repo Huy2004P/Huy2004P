@@ -1,111 +1,85 @@
 <div align="center">
 
-# 🍏 LumiFinance
-**Quản lý thu chi (Personal Finance Tracker)**
-
-📱 *Đồ án Điện toán đám mây* · 💻 *Xây dựng bằng Flutter*
+#  Xin chào, mình là **Huy**
+**Sinh viên Kỹ thuật Phần mềm** · **Lập trình viên Mobile & Desktop**
 
 ---
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phathuy2004h@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Huy2004P?label=Follow&style=social)](https://github.com/Huy2004P)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Huy2004P)](#)
+
+</div>
+
+<br>
+
+## 👤 Về mình | About Me
+
+Mình là sinh viên ngành **Kỹ Thuật Phần Mềm** tại *Trường Đại Học An Giang - ĐHQG TP.HCM*. Mình mang trong mình niềm đam mê mạnh mẽ với việc phát triển các ứng dụng **Mobile (Flutter)** và **Desktop (.NET, WinForms)**, đặc biệt chú trọng vào **trải nghiệm người dùng (UX/UI)** và **clean code**.
+
+- 🎯 **Mục tiêu:** Trở thành Full-stack Developer với nền tảng vững chắc và các dự án mang tính thực tiễn cao.
+- 🌱 **Đang nghiên cứu:** `.NET`, `Flutter`, `SQL Server` và các kiến trúc phần mềm hiện đại.
+- ✨ **Triết lý:** Thiết kế tối giản (Minimalist), UI tinh tế, tối ưu hóa hiệu suất và xây dựng những dự án *"có cảm xúc"*.
+- 🛠 **Sở thích khác:** Khám phá công nghệ IoT và sáng tạo giao diện (UI/UX).
+
+---
+
+## 💻 Kỹ năng & Công cụ | Tech Stack
+
+| Danh mục | Kỹ năng & Công nghệ |
+| :--- | :--- |
+| **Ngôn ngữ** | `C#` · `Java` · `Dart` |
+| **Frameworks** | `Flutter` · `.NET` |
+| **Cơ sở dữ liệu** | `SQL Server` · `MySQL` · `SQLite` |
+| **Công cụ** | `Git` · `Visual Studio` · `VS Code` · `Android Studio` |
+
+---
+
+## 📱 Dự án nổi bật | Featured Projects
+
+### 💰 [**LumiFinance - Quản lý thu chi**](https://github.com/Huy2004P/LumiFinance)
+*Ứng dụng quản lý tài chính cá nhân toàn diện (Đồ án Điện toán đám mây).*
+- **Công nghệ:** `Flutter` · `Firebase` · `Node.js`
+- **Điểm nhấn:** Quản lý ví, giao dịch, thống kê ngân sách, xuất PDF và tích hợp Push Notification. Thiết kế áp dụng **Apple Design Language** cực kỳ tối giản và tinh tế.
+
+### 🌐 [**Lumi Portfolio - Fullstack Web**](https://github.com/Huy2004P/portfolio_website)
+*Hệ thống Website Portfolio cá nhân hiển thị dự án, blog và thông tin liên hệ.*
+- **Công nghệ:** `React` · `Node.js` · `Cloudinary`
+- **Điểm nhấn:** Tích hợp trang Admin (CMS) để quản lý nội dung, upload hình ảnh mượt mà qua Cloudinary. Giao diện mượt mà với hoạt ảnh (micro-animations) đẳng cấp.
+
+### 🏥 [**LumiCare - Booking App**](https://github.com/Huy2004P/LumiCare)
+*Dự án tái cấu trúc hệ thống ứng dụng đặt lịch khám bệnh thành kiến trúc Standalone.*
+- **Công nghệ:** `Flutter` · `Feature-First Architecture`
+- **Điểm nhấn:** Xử lý Routing tập trung, Dependency Injection (DI) hiệu quả, gỡ rối các module phức tạp để tối ưu hiệu suất và dễ dàng bảo trì.
+
+### ☕ [**KOKAKA Coffee App**](https://github.com/Huy2004P/cafe_manager_app)
+*Ứng dụng quản lý menu quán cà phê offline gọn nhẹ.*
+- **Công nghệ:** `Flutter` · `SQLite Local Storage`
+- **Điểm nhấn:** Giao diện tone nâu coffee sang trọng, hỗ trợ chuyển đổi **Dark / Light Theme** mượt mà, quản lý món ăn trực quan bằng hình ảnh.
+
+---
+
+## 📈 Thống kê cá nhân | GitHub Stats
+
+<div align="center">
+
+![Huy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huy2004P&show_icons=true&theme=transparent&hide_border=true&title_color=1D1D1F&text_color=1D1D1F&icon_color=0071E3)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huy2004P&layout=compact&theme=transparent&hide_border=true&title_color=1D1D1F&text_color=1D1D1F)
 
 </div>
 
 ---
 
-## 📸 Hình ảnh ứng dụng | Screenshots
+## 📫 Kết nối với mình | Connect
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/10e651c1-bd78-4f7c-a423-37d2c3ef454b" width="240" />
-  <img src="https://github.com/user-attachments/assets/ea57101a-f2ae-42c8-8a2e-e9e3587245a4" width="240" />
-  <img src="https://github.com/user-attachments/assets/a26745f2-a3e9-48cb-be7c-54d14752b0c8" width="240" />
-  <img src="https://github.com/user-attachments/assets/1bc13726-b3a2-4ba2-bb4f-537913414a1a" width="240" />
-  <img src="https://github.com/user-attachments/assets/ccc409db-537b-4fae-9c4e-8af7dad6eec0" width="240" />
-  <img src="https://github.com/user-attachments/assets/b15861a7-9665-41fa-b81c-86318e8aa313" width="240" />
-  <img src="https://github.com/user-attachments/assets/df55dd5b-777c-4e0e-9e97-16843009d86e" width="240" />
-  <img src="https://github.com/user-attachments/assets/1ec1614d-6856-40b1-bdc9-0117771ca606" width="240" />
-  <img src="https://github.com/user-attachments/assets/17ae945a-5db3-4f70-aa94-949ca3fe1252" width="240" />
-  <img src="https://github.com/user-attachments/assets/1fae0c4e-840a-482f-888a-8ad20ac4f430" width="240" />
-  <img src="https://github.com/user-attachments/assets/bc920419-db24-413e-89d0-352cdea146a2" width="240" />
-</div>
+- 📧 **Email:** [phathuy2004h@gmail.com](mailto:phathuy2004h@gmail.com)
+- 🐙 **GitHub:** [github.com/Huy2004P](https://github.com/Huy2004P)
 
----
-
-## 🌟 Tính năng nổi bật | Key Features
-
-- 🔐 **Xác thực người dùng:** Đăng nhập, đăng ký, quên mật khẩu an toàn với Firebase Auth.
-- 👤 **Quản lý hồ sơ:** Tạo, xem và chỉnh sửa thông tin cá nhân mượt mà.
-- 💳 **Quản lý tài chính cốt lõi:**
-  - **Ví (Wallets):** Quản lý nhiều nguồn tiền, dễ dàng chuyển đổi giữa các ví.
-  - **Giao dịch (Transactions):** Ghi chép thu/chi rành mạch, chi tiết.
-  - **Danh mục (Categories):** Phân loại đa dạng, trực quan.
-  - **Ngân sách (Budgets):** Lên kế hoạch chi tiêu thông minh.
-- 📊 **Thống kê & Lịch sử:** Biểu đồ đẹp mắt, theo dõi luồng tiền trực quan.
-- 🔔 **Thông báo (Push Notifications):** Luôn cập nhật trạng thái mới nhất qua Firebase Messaging.
-- 📄 **Trích xuất PDF:** Xuất báo cáo giao dịch tiện lợi.
-
----
-
-## 🎨 Ngôn ngữ thiết kế | Apple Design Language
-
-Dự án theo đuổi phong cách **Minimalist & Clean** chuẩn Apple:
-- 🌈 **Màu sắc:** Sử dụng tone màu signature: `pureWhite`, `lightGray`, `nearBlack`, `appleBlue`.
-- ✍️ **Typography:** Kiểu chữ tinh tế với `displayHero` hầm hố cho tiêu đề và `body` gọn gàng cho nội dung, tối ưu trải nghiệm đọc.
-- ✨ **Trải nghiệm:** Chú trọng vào hiệu ứng mượt mà và UI sang trọng.
-
----
-
-## 🛠 Công nghệ & Thư viện | Tech Stack
-
-| Thành phần | Công nghệ / Packages |
-|------------|-----------------------|
-| **Core** | Flutter (SDK ^3.11.4), Provider, Dio, Http |
-| **Backend/Cloud** | Firebase Auth, Firestore, Firebase Messaging |
-| **Tiện ích** | SharedPreferences, JWT Decoder, Intl, Image Picker |
-| **UI/UX** | Cupertino Icons, Google Fonts, Flutter Spinkit |
-| **File & Export** | Path Provider, Flutter PDFView, HTML to PDF, Share Plus |
-
----
-
-## 📁 Cấu trúc thư mục | Folder Structure
-
-```text
-lib/
-├── config/        # API endpoints, môi trường
-├── screens/       # Giao diện chính (Home, Wallet, Budget...)
-├── services/      # Logic kết nối API & Backend
-├── theme/         # Design system (AppleColors, AppleTextStyles)
-└── main.dart      # Entry point
-```
-
----
-
-## ⚙️ Cài đặt & Chạy ứng dụng | Setup & Run
-
-1. **Yêu cầu hệ thống:**
-   - Flutter SDK đã được cài đặt.
-   - Emulator hoặc thiết bị thật (iOS/Android).
-
-2. **Cài đặt thư viện:**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Cấu hình môi trường:**
-   - Thêm `google-services.json` (Android) / `GoogleService-Info.plist` (iOS) vào thư mục tương ứng.
-   - Tuỳ chỉnh endpoint trong `lib/config/api_constants.dart` (hỗ trợ Local hoặc Render).
-
-4. **Khởi chạy:**
-   ```bash
-   flutter run
-   ```
-
----
+<br>
 
 <div align="center">
 
-✨ *“Xây dựng giải pháp tài chính thông minh với trải nghiệm người dùng hoàn hảo.”* ✨
+> *"Hãy xây dựng những dự án mang cảm xúc — vì code đẹp chỉ là phần khởi đầu."* 
 
 </div>
