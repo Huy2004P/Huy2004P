@@ -47,7 +47,7 @@ Mình là sinh viên ngành **Kỹ Thuật Phần Mềm** tại *Trường Đạ
 - **Công nghệ:** `React` · `Node.js` · `Cloudinary`
 - **Điểm nhấn:** Tích hợp trang Admin (CMS) để quản lý nội dung, upload hình ảnh mượt mà qua Cloudinary. Giao diện mượt mà với hoạt ảnh (micro-animations) đẳng cấp.
 
-### 🏥 [**LumiCare - Booking App**](https://github.com/Huy2004P/LumiCare)
+### 🏥 [**LumiCare - Booking App**](https://github.com/Huy2004P/LumicareFlutter)
 *Dự án tái cấu trúc hệ thống ứng dụng đặt lịch khám bệnh thành kiến trúc Standalone.*
 - **Công nghệ:** `Flutter` · `Feature-First Architecture`
 - **Điểm nhấn:** Xử lý Routing tập trung, Dependency Injection (DI) hiệu quả, gỡ rối các module phức tạp để tối ưu hiệu suất và dễ dàng bảo trì.
