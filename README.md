@@ -42,7 +42,7 @@ Mình là sinh viên ngành **Kỹ Thuật Phần Mềm** tại *Trường Đạ
 - **Công nghệ:** `Flutter` · `Firebase` · `Node.js`
 - **Điểm nhấn:** Quản lý ví, giao dịch, thống kê ngân sách, xuất PDF và tích hợp Push Notification. Thiết kế áp dụng **Apple Design Language** cực kỳ tối giản và tinh tế.
 
-### 🌐 [**Huy Portfolio - Fullstack Web**](https://github.com/Huy2004P/portfolio_website)
+### 🌐 [**Huy Portfolio - Fullstack Web**](https://github.com/Huy2004P/HuyPortfolio)
 *Hệ thống Website Portfolio cá nhân hiển thị dự án, blog và thông tin liên hệ.*
 - **Công nghệ:** `React` · `Node.js` · `Cloudinary`
 - **Điểm nhấn:** Tích hợp trang Admin (CMS) để quản lý nội dung, upload hình ảnh mượt mà qua Cloudinary. Giao diện mượt mà với hoạt ảnh (micro-animations) đẳng cấp.
